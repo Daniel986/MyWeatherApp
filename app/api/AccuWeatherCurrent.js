@@ -21,7 +21,6 @@ export const AccuWeatherCurrent = () => {
                 } catch (error) {
                 }
             }
-            console.log('downloading weather')
             fetchWeather()
         }
 

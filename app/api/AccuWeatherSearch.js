@@ -18,7 +18,6 @@ export const AccuWeatherSearch = (searchInput) => {
             } catch (error) {
             }
           }
-          console.log('downloading locations')
           fetchPlaces()
         }
       }, [searchInput])

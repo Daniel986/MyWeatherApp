@@ -1,5 +1,5 @@
 
-const API_BASE_ADDRESS = 'http://dataservice.accuweather.com/'
+const API_BASE_ADDRESS = 'https://dataservice.accuweather.com/'
 
 //export const API_KEY = 'fxZkmwXTXIk6Sv9vCn7q8MMyli0vwKg0'
 export const API_KEY = 'E2bCdixAgVedBksGkyGGQjZzDlDWiNMH'

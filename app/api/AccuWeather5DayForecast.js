@@ -21,7 +21,6 @@ export const AccuWeather5DayForecast = () => {
                 } catch (error) {
                 }
             }
-            console.log('downloading forecast')
             fetch5DayForecast()
         }
     }, [currentLocation])
